@@ -9,15 +9,6 @@
 
 ---
 
-## 🐍 Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nadir-dw/nadir-dw/output-snake/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nadir-dw/nadir-dw/output-snake/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nadir-dw/nadir-dw/output-snake/github-snake.svg" />
-</picture>
-
----
 
 ## 🕹️ Pacman
 
@@ -25,31 +16,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nadir-dw&show_icons=true&theme=radical&hide_border=true" width="495" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadir-dw&layout=compact&theme=radical&hide_border=true" width="285" alt="Top Languages" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nadir-dw&theme=radical&no-frame=true&no-bg=true&column=7" alt="Trophies" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-[![nadir-dw's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nadir-dw&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -79,6 +45,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadir-dw)
+https://discord.com/channels/@me
 
 </div>
 
