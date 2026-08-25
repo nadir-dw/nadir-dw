@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31433997/README.md)
+
 <div align="center">
 
 # Hey there, I'm nadir_dw 👋
